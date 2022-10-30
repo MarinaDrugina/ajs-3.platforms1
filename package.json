@@ -1,0 +1,19 @@
+{
+  "name": "@marinadrugina/ajs-3.platforms1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaDrugina/ajs-3.platforms1.git"
+  },
+  "author": "MarinaDrugina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaDrugina/ajs-3.platforms1/issues"
+  },
+  "homepage": "https://github.com/MarinaDrugina/ajs-3.platforms1#readme"
+}
